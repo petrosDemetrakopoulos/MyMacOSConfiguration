@@ -33,6 +33,7 @@ Feel free to use it.
 - Docker Desktop [Download link](https://www.docker.com/products/docker-desktop/)
 - mySQL (Installed with `brew install mysql`)
 - MongoDB (Installed with `brew install mongodb`)
+- Redis (Installed with `brew install redis`)
 - RStudio [Download link](https://www.rstudio.com/products/rstudio/download/)
 
 ## CLI apps
