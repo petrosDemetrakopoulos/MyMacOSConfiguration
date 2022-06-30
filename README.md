@@ -82,13 +82,18 @@ You can do so with the following terminal command:
 ## System preferences
 
 ### Show all hidden files
-
 ```
 defaults write com.apple.Finder AppleShowAllFiles true
 killall Finder
 ```
-## Disable the “Are you sure you want to open this application?” dialog
 
+### Show User Library folder
+```
+chflags nohidden ~/Library/
+killall Finder
+```
+
+## Disable the “Are you sure you want to open this application?” dialog
 ```
 defaults write com.apple.LaunchServices LSQuarantine -bool false
 ```
@@ -96,6 +101,12 @@ defaults write com.apple.LaunchServices LSQuarantine -bool false
 ## Finder show path bar
 ```
 defaults write com.apple.finder ShowPathbar -bool true
+```
+
+## Display the file extensions in Finder
+```
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+killall Finder
 ```
 
 ## When performing a search, search the current folder by default
