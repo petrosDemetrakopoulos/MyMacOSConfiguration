@@ -1,0 +1,41 @@
+# Compiled source #
+###################
+*.class
+*.o
+*.so
+*.pyc
+*.pyo
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.msi
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE files #
+#############
+.vscode
+.idea
+.iml
+*.sublime-workspace
+
+# Packages / 3rd party #
+/node_modules
+/examples/node_modules
+/.idea
+/.nyc_output
+/lib/.nyc_output
