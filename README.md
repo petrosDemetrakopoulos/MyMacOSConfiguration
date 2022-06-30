@@ -1,4 +1,6 @@
-# Mac configuration and setup for Software development & Machine learning
+# My Mac configuration
+This is my Mac configuration and setup for Software development & Machine learning projects.
+Feel free to use it.
 
 ## Desktop apps
 
