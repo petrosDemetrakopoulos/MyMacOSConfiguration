@@ -30,7 +30,7 @@ Feel free to use it.
 ## Package Managers
 - Homebrew [Installation guide](https://brew.sh/)
 - PIP [Installation guide](https://www.groovypost.com/howto/install-pip-on-a-mac/)
-- Yarn (Installed with `npm install --global yarn`)
+- Yarn (Installed with `npm install --g yarn`)
 
 ## Tools and languages
 - Node.JS and NPM [Download link](https://nodejs.org/en/download/)
