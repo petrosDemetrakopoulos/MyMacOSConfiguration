@@ -17,9 +17,15 @@ Feel free to use it.
 - Sublime Text [Download link](https://www.sublimetext.com/download)
 - FileZilla (FTP Client) [Download link](https://filezilla-project.org/download.php?type=client)
 - Beekeeper Studio (Community Edition) [Download link](https://www.beekeeperstudio.io/get)
+- TeamViewer [Download link](https://www.teamviewer.com/en/download/mac-os/)
 
 ### Maintenance
 - CleanMyMac [Download link](https://macpaw.com/cleanmymac)
+
+## Communication
+- Zoom [Download link](https://zoom.us/download)
+- MS Teams [Download link](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+- Slack [App Store link](https://apps.apple.com/us/app/slack-for-desktop/id803453959?mt=12)
 
 ## Package Managers
 - Homebrew [Installation guide](https://brew.sh/)
