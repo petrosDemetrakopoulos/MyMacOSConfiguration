@@ -65,6 +65,7 @@ Feel free to use it.
 ## Python libraries and packages
 - matplotlib (Installed with `pip install matplotlib`)
 - SciKitLearn (Installed with `pip install scikit-learn`)
+- XGBoost (Installed with `pip install xgboost`)
 - TensorFlow (Installed with `pip install tensorflow`)
 - Keras (Installed with `pip install keras`)
 - NumpPy (Installed with `pip install numpy`)
