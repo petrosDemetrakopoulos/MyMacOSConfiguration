@@ -30,7 +30,7 @@ Feel free to use it.
 ## Package Managers
 - Homebrew [Installation guide](https://brew.sh/)
 - PIP [Installation guide](https://www.groovypost.com/howto/install-pip-on-a-mac/)
-- Yarn (Installed with `npm install --global yarn`)
+- Yarn (Installed with `npm install --g yarn`)
 
 ## Tools and languages
 - Node.JS and NPM [Download link](https://nodejs.org/en/download/)
@@ -65,6 +65,7 @@ Feel free to use it.
 ## Python libraries and packages
 - matplotlib (Installed with `pip install matplotlib`)
 - SciKitLearn (Installed with `pip install scikit-learn`)
+- XGBoost (Installed with `pip install xgboost`)
 - TensorFlow (Installed with `pip install tensorflow`)
 - Keras (Installed with `pip install keras`)
 - Keras RL2 (Installed with `pip install keras-rl2`)
