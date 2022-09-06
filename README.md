@@ -67,8 +67,10 @@ Feel free to use it.
 - SciKitLearn (Installed with `pip install scikit-learn`)
 - TensorFlow (Installed with `pip install tensorflow`)
 - Keras (Installed with `pip install keras`)
+- Keras RL2 (Installed with `pip install keras-rl2`)
 - NumpPy (Installed with `pip install numpy`)
 - Pandas (Installed with `pip install pandas`)
+- Gym (Installed with `pip install gym`)
 
 ## VS Code Extensions
 - Prettier - Code formatter
