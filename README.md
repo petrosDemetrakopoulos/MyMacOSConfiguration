@@ -72,6 +72,7 @@ Feel free to use it.
 - NumpPy (Installed with `pip install numpy`)
 - Pandas (Installed with `pip install pandas`)
 - Gym (Installed with `pip install gym`)
+- Jupyter notebooks (Installed with `pip install jupyter`)
 
 ## VS Code Extensions
 - Prettier - Code formatter
