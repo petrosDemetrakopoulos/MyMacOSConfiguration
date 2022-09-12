@@ -82,6 +82,9 @@ Feel free to use it.
 - ESLint
 - DotENV
 
+### Other VS Code configurations
+- Install `code .` shell coommand by selecting from the menu: `View > Command Palette > Install code command in PATH`
+
 ## Specials for M1 Macs
 
 **Before installing anything else** it is important to install Rosetta2 emulator.
