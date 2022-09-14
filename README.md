@@ -26,6 +26,7 @@ Feel free to use it.
 - Zoom [Download link](https://zoom.us/download)
 - MS Teams [Download link](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 - Slack [App Store link](https://apps.apple.com/us/app/slack-for-desktop/id803453959?mt=12)
+- WhatsApp [App Store link](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12)
 
 ## Package Managers
 - Homebrew [Installation guide](https://brew.sh/)
