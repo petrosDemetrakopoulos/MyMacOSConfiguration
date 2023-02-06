@@ -74,14 +74,16 @@ Feel free to use it.
 - Pandas (Installed with `pip install pandas`)
 - Gym (Installed with `pip install gym`)
 - Jupyter notebooks (Installed with `pip install jupyter`)
+- imbalanced-learn (Installed with `pip install imbalanced-learn`)
 
 ## VS Code Extensions
 - Prettier - Code formatter
 - Truffle for VS Code
 - Python
 - Jupyter
-- ESLint
-- DotENV
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [SandDance](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance)
 
 ### Other VS Code configurations
 - Install `code .` shell coommand by selecting from the menu: `View > Command Palette > Install code command in PATH`
